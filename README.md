@@ -15,6 +15,7 @@ I build tools for running AI models on your own GPUs, and I work on making open 
 ## Smaller tools
 
 - [CacheWarden](https://github.com/Efs-O/CacheWarden): keeps Claude Code's prompt cache warm.
+- [forge-relay](https://github.com/Efs-O/forge-relay): a coordination board for Claude Code and Codex agents working in one repo.
 - [HalluMeter](https://github.com/Efs-O/Hallumeter): a desktop ring that warns when an AI session's context window is filling up.
 - [airos-wakebot](https://github.com/Efs-O/airos-wakebot): wake a PC from Telegram, with the bot running on a Ubiquiti radio.
 
