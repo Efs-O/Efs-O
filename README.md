@@ -1,4 +1,4 @@
-# Efstathios Outas · evolv
+# Efstathios Outas · evolvlabs
 
 I build tools for running AI models on your own GPUs, and I work on making open models better at Greek. Based in Greece. More at [evolvlabs.dev](https://evolvlabs.dev).
 
